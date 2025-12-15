@@ -1,0 +1,141 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Тирлист MK</title>
+<link href="styles1.css" rel="stylesheet">
+</head>
+<body>
+<div class="content">
+  <h1>Тирлист персонажей Mortal Kombat от KadaevRV </h1>
+  <p class="intro"></p>
+  <div class="gallery">
+    <figure>
+       <img src="../images/kabal.png" alt="Персонаж" width="60" height="70">
+      <figcaption>S+ Tier: Кабал</figcaption>
+    </figure>
+    <figure>
+       <img src="../images/cyrax.png" alt="Персонаж" width="60" height="70">
+      <figcaption>S Tier: Сайрекс</figcaption>
+    </figure>
+    <figure>
+       <img src="../images/sonya.png" alt="Персонаж" width="60" height="70">
+      <figcaption>S Tier: Соня</figcaption>
+    </figure>
+    <figure>
+       <img src="../images/smoke.png" alt="Персонаж" width="60" height="70">
+      <figcaption>S Tier: Смоук</figcaption>
+    </figure>
+    <figure>
+       <img src="../images/kunglao.png" alt="Персонаж" width="60" height="70">
+      <figcaption>S Tier: Кун Лао</figcaption>
+    </figure>
+    <figure>
+       <img src="../images/freddy.png" alt="Персонаж" width="60" height="70">
+      <figcaption>S Tier: Фредди Крюгер</figcaption>
+    </figure>
+    <figure>
+       <img src="../images/kenshi.png" alt="Персонаж" width="60" height="70">
+      <figcaption>S Tier: Кенши</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/johnnycage.png" alt="Персонаж" width="60" height="70">
+      <figcaption>S Tier: Джонни Кейдж</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/shangtsung.png" alt="Персонаж" width="60" height="70">
+      <figcaption>A Tier: Шанг Цунг</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/skarlet.png" alt="Персонаж" width="60" height="70">
+      <figcaption>A Tier: Скарлет</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/kitana.png" alt="Персонаж" width="60" height="70">
+      <figcaption>A Tier: Китана</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/jax.png" alt="Персонаж" width="60" height="70">
+      <figcaption>A Tier: Джакс</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/sektor.png" alt="Персонаж" width="60" height="70">
+      <figcaption>A Tier: Сектор</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/liukang.png" alt="Персонаж" width="60" height="70">
+      <figcaption>A Tier: Лю Канг</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/noob.png" alt="Персонаж" width="60" height="70">
+      <figcaption>A Tier: Нуб Сайбот</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/reptile.png" alt="Персонаж" width="60" height="70">
+      <figcaption>A Tier: Рептилия</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/mileena.png" alt="Персонаж" width="60" height="70">
+      <figcaption>A Tier: Скорпион</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/scorpion.png" alt="Персонаж" width="60" height="70">
+      <figcaption>B Tier: Скорпион</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/rain.png" alt="Персонаж" width="60" height="70">
+      <figcaption>B Tier: Рейн</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/subzero.png" alt="Персонаж" width="60" height="70">
+      <figcaption>B Tier: Саб-Зиро</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/raiden.png" alt="Персонаж" width="60" height="70">
+      <figcaption>B Tier: Рейден</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/ermac.png" alt="Персонаж" width="60" height="70">
+      <figcaption>B Tier: Ермак</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/cybersubzero.png" alt="Персонаж" width="60" height="70">
+      <figcaption>C Tier: Кибер Саб-Зиро</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/sindel.png" alt="Персонаж" width="60" height="70">
+      <figcaption>C Tier: Синдел</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/nightwolf.png" alt="Персонаж" width="60" height="70">
+      <figcaption>C Tier: Найтвульф</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/quanchi.png" alt="Персонаж" width="60" height="70">
+      <figcaption>C Tier: Куан Чи</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/jade.png" alt="Персонаж" width="60" height="70">
+      <figcaption>C Tier: Джейд</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/kano.png" alt="Персонаж" width="60" height="70">
+      <figcaption>C Tier: Кано</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/baraka.png" alt="Персонаж" width="60" height="70">
+      <figcaption>C Tier: Барака</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/sheeva.png" alt="Персонаж" width="60" height="70">
+      <figcaption>C Tier: Шива</figcaption>
+    </figure>
+	<figure>
+       <img src="../images/stryker.png" alt="Персонаж" width="60" height="70">
+      <figcaption>D Tier: Страйкер</figcaption>
+    </figure>
+  </div>
+  <p class="copyright">Собственность 2015, CosmoFarmer.com </p>
+</div>
+</body>
+</html>
